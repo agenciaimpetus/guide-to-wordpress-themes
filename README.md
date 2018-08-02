@@ -9,3 +9,8 @@ In order to expedite the development of features such as: Custom post types, men
 - Custom post type
 - Menus
 - Utilities
+
+
+## Useful links
+
+[Wordpress constants](http://wpengineer.com/2382/wordpress-constants-overview/)
