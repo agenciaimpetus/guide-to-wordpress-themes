@@ -6,6 +6,7 @@ This repository aims to display a quick guide to consultation in the development
 In order to expedite the development of features such as: Custom post types, menus, widgets, etc.
 
 - [Widgets](widgets.md)
+- [Loop](loop.md)
 - Custom post type
 - Menus
 - Utilities
