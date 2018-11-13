@@ -8,7 +8,7 @@ In order to expedite the development of features such as: Custom post types, men
 - [Widgets](widgets.md)
 - [Loop](loop.md)
 - Custom post type
-- Menus
+- [Menus](menus.md)
 - Utilities
 
 
